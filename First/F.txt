@@ -1,1 +1,2 @@
-This is your first class
+This is your first git class
+introdction
